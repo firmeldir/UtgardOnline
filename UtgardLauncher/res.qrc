@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/556544.png</file>
+        <file>res/avatar.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>res/16251.ttf</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>res/icon2.0.ico</file>
+    </qresource>
+</RCC>

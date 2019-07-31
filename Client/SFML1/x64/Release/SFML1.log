@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Release\) содержит файлы, которые используются совместно с другим проектом (SFML1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  hero.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(17): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(33): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(45): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(46): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(98): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(108): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(192): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(206): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(230): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(244): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(303): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(308): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  2 of 2414 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  SFML1.vcxproj -> C:\Users\Xiaomi\source\repos\Coursework\Client\x64\Release\Client.exe

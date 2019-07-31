@@ -1,0 +1,126 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (SFML1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  essence.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\essence.cpp(8): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  hero.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(16): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(27): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(32): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(33): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(82): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(92): warning C4551: в вызове функции отсутствует список аргументов
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(176): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(190): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(214): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(228): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(279): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\entities\hero.cpp(284): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  game_main.cpp
+  Game_update.cpp
+  Panels.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\gui\panels.cpp(10): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\gui\panels.cpp(12): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\gui\panels.cpp(13): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\gui\panels.cpp(14): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\gui\panels.cpp(15): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\gui\panels.cpp(32): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  AssetManager.cpp
+  StateManager.cpp
+  Network.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\network.cpp(290): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xiaomi\source\repos\coursework\client\sfml1\network.cpp(353): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xiaomi\source\repos\coursework\client\sfml1\network.cpp(374): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xiaomi\source\repos\coursework\client\sfml1\network.cpp(457): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Skill.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\skill.cpp(34): warning C4305: аргумент: усечение из "double" в "float"
+  GameState.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(64): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(100): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(161): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(162): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(166): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(171): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(172): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(176): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(177): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(181): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(182): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(186): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(191): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(196): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(201): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(206): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(211): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(216): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(221): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(226): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(231): warning C4305: =: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\gamestate.cpp(236): warning C4305: =: усечение из "double" в "float"
+  MainMenuState.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\mainmenustate.cpp(11): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\mainmenustate.cpp(16): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\mainmenustate.cpp(32): warning C4305: аргумент: усечение из "double" в "float"
+  SkillsState.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\skillsstate.cpp(17): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\skillsstate.cpp(18): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\skillsstate.cpp(21): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\skillsstate.cpp(24): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\skillsstate.cpp(26): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\xiaomi\source\repos\coursework\client\sfml1\states\skillsstate.cpp(31): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+  State.cpp
+  tinystr.cpp
+  tinyxml.cpp
+  tinyxmlerror.cpp
+  tinyxmlparser.cpp
+  Game_level.cpp
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(11): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(99): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(100): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(140): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(197): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(218): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(219): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(220): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(221): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+c:\users\xiaomi\source\repos\coursework\client\sfml1\world\game_level.cpp(267): warning C4715: Level::GetObject: значение возвращается не при всех путях выполнения
+  SFML1.vcxproj -> C:\Users\Xiaomi\source\repos\Coursework\Client\x64\Debug\Client.exe
